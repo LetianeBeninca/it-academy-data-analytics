@@ -16,7 +16,7 @@ Coursework from the **Data Analytics Bootcamp** (IT Academy, Barcelona Activa, 2
 | 08.02 | Data visualization in Power BI | Power BI | [`sprint-08-02-power-bi-visualization`](sprint-08-02-power-bi-visualization) |
 | 09 | Queries with MongoDB | MongoDB Compass | [`sprint-09-mongodb`](sprint-09-mongodb) |
 
-Sprint 01 was the installation of the tools and has no deliverable. The final project (Sprint 10) is published in its own repository: [TODO: link].
+Sprint 01 was the installation of the tools and has no deliverable. The final project (Sprint 10) is published in its own repository: [building-energy-ml-shap](https://github.com/LetianeBeninca/building-energy-ml-shap).
 
 ## Notes
 
